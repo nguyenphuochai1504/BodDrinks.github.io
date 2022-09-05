@@ -1,0 +1,76 @@
+.navbar img{
+    max-height: 280%;
+    margin-top: -16%;
+}
+.navbar{
+    padding: 2%;
+    background-color: white;
+}
+.navbar a{
+    color: black;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navbar ul li{
+    display: inline-block;
+}
+.center img{
+width: 100%;
+}
+.bkcl{
+    background-color: #72ccd2;
+    width: 30%;
+    position: absolute;
+    margin-left: 18%;
+    margin-top: -30%;
+}
+.bkcl1{
+    background-color: #72ccd2;
+}
+.bkcl h1{
+    font-weight: bold;
+    font-size: 55px;
+    margin: 22% 0% 22% 14%;
+}
+.row img{
+    width: 100%;
+}
+.row .container{
+width: 80%;
+}
+.row h1{
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 30%;
+}
+.row p{
+    font-size: 15px;
+}
+.under{
+    color: white;
+    text-align: center;
+    margin-top: 20%;
+    padding: 4%;
+}
+.under h1{
+    font-weight: bold;
+}
+.under button{
+    color: black;
+    background-color: white;
+    border-radius: 0px;
+    width: 8%;
+    font-size: 15px;
+}
+.under input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: white;
+    background-color: inherit;
+}
+.under img{width: 3%;}
+input{
+    width: 10%;
+}

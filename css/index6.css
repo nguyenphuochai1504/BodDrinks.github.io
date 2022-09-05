@@ -1,0 +1,81 @@
+.navbar img{
+    max-height: 280%;
+    margin-top: -16%;
+}
+.navbar{
+    padding: 2%;
+    background-color: white;
+}
+.navbar a{
+    color: black;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navbar ul li{
+    display: inline-block;
+}
+.center{
+    color: #575757;
+}
+.img1 {
+    width:100%;
+}
+.center .container{
+    width: 80%;
+}
+.center h1{
+    font-size: 30px;
+}
+.img img{
+    width: 3%;
+    margin-top: 6%;
+    margin-right: 3%;
+}
+.center h2{font-weight: bold;}
+.btn-danger{
+    border-radius: 0px;
+    margin-top: 6%;
+    width: 80%;
+    padding: 2%;
+    background-color: rgb(235, 131, 131);
+}
+input{
+    width: 12%;
+    padding: 1% 0% 1% 0%; 
+}
+.under{
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+    padding: 4%;
+}
+.under h1{
+    font-weight: bold;
+}
+.under button{
+    color: black;
+    background-color: white;
+    border-radius: 0px;
+    width: 8%;
+    font-size: 15px;
+}
+.under input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: white;
+    background-color: inherit;
+}
+.under img{width: 3%;}
+.input1{
+    width: 80%;
+    padding: 3%;
+}
+.input2 {
+    width: 10%;
+}
+.bkcl {background-color:#72ccd2;}
+.row {
+    margin-top: 4%;
+}

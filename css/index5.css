@@ -1,0 +1,58 @@
+.navbar img{
+    max-height: 280%;
+    margin-top: -16%;
+}
+.navbar{
+    padding: 2%;
+    background-color: white;
+}
+.navbar a{
+    color: black;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navbar ul li{
+    display: inline-block;
+}
+.row{
+    color: black;
+}
+.row h1{
+    font-weight: bold;
+    font-size: 45px;
+}
+.center img{
+    width: 102%;
+}
+.center .container{
+    width: 70%;
+}
+.under{
+    color: white;
+    text-align: center;
+    margin-top: 20%;
+    padding: 4%;
+}
+.under h1{
+    font-weight: bold;
+}
+.under button{
+    color: black;
+    background-color: white;
+    border-radius: 0px;
+    width: 8%;
+    font-size: 15px;
+}
+.under input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: white;
+    background-color: inherit;
+}
+.under img{width: 3%;}
+input{
+    width: 10%;
+}
+.bkcl {background-color:#72ccd2;}

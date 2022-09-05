@@ -1,0 +1,122 @@
+.navbar img{
+    max-height: 280%;
+    margin-top: -16%;
+}
+.navbar{
+    padding: 2%;
+    background-color: white;
+}
+.navbar a{
+    color: black;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navbar ul li{
+    display: inline-block;
+}
+.bkcl{background-color: white;}
+.bkcl2{background-color: rgb(226 28 33);}
+.bkcl3{background-color: rgb(153 69 69);}
+.bkcl4{background-color: rgb(212 189 167);}
+.bkcl5{background-color: rgb(232 199 35);}
+.bkcl6{background-color: #72ccd2;}
+.vung1{
+    width: 1263px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.carousel-control{
+    width: 0%;
+    margin: 0% 4% 0% 4%;
+}
+.vung2 img{width: 107%;}
+.vung2{
+    width: 900px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.col-md-6{
+    margin-left: 2px;
+    margin-right: -2px;
+}
+.row img{
+    margin-left: -3.5%;
+}
+.text{
+    color: white;
+    text-align: left;
+    height: 510px;
+    padding: 8%;
+}
+.item1{
+    position: relative;
+    margin-top: -50%;
+    margin-left: 12%;
+}
+.under{
+    color: white;
+    text-align: center;
+    margin-top: 20%;
+    padding: 4%;
+}
+.under h1{
+    font-weight: bold;
+}
+.under button{
+    color: black;
+    background-color: white;
+    border-radius: 0px;
+    width: 8%;
+    font-size: 15px;
+}
+.under input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: white;
+    background-color: inherit;
+}
+.under img{width: 3%;}
+.text1{
+  position: absolute;
+  margin-top: -50%;
+  margin-left: 12%;
+}
+.text1 h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+.text1 p{
+    font-size: 18px;
+}
+.icon img{
+    width: 30%;
+    position: absolute;
+    margin-top: -100%;
+    margin-left: 60%;
+}
+.icon2 img{
+    width: 30%;
+    position: absolute;
+    margin-top: -100%;
+    margin-left: 2%;
+}
+input{
+    width: 10%;
+}
+.btn-default{
+    font-weight: bold;
+    color: white;
+    background-color: inherit;
+    border-radius: 0px;
+    border: 3px solid white;
+    margin-top: 5%;
+    margin-right: 4%;
+    padding: 4% 10% 4% 10%;
+}
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
